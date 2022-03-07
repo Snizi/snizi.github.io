@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.luan.ninja/posts/mypost/</loc>
+    <loc>http://luan.ninja/posts/mypost/</loc>
     <lastmod>2022-03-07T06:22:50-03:00</lastmod>
   </url><url>
-    <loc>http://www.luan.ninja/posts/</loc>
+    <loc>http://luan.ninja/posts/</loc>
     <lastmod>2022-03-07T06:22:50-03:00</lastmod>
   </url><url>
-    <loc>http://www.luan.ninja/</loc>
+    <loc>http://luan.ninja/</loc>
     <lastmod>2022-03-07T06:22:50-03:00</lastmod>
   </url><url>
-    <loc>http://www.luan.ninja/categories/</loc>
+    <loc>http://luan.ninja/categories/</loc>
   </url><url>
-    <loc>http://www.luan.ninja/tags/</loc>
+    <loc>http://luan.ninja/tags/</loc>
   </url>
 </urlset>

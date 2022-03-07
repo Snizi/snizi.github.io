@@ -5,21 +5,21 @@
     
     
     
-    <link>https://snizi.github.io/</link>
+    <link>http://www.luan.ninja/</link>
     <description>Recent content on Snizi Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Mar 2022 06:22:50 -0300</lastBuildDate>
     
-	<atom:link href="https://snizi.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.luan.ninja/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>post title</title>
-      <link>https://snizi.github.io/posts/mypost/</link>
+      <link>http://www.luan.ninja/posts/mypost/</link>
       <pubDate>Mon, 07 Mar 2022 06:22:50 -0300</pubDate>
       
-      <guid>https://snizi.github.io/posts/mypost/</guid>
+      <guid>http://www.luan.ninja/posts/mypost/</guid>
       <description>
         
           

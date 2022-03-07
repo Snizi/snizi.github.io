@@ -5,12 +5,12 @@
     
     
     
-    <link>https://www.luan.ninja/tags/</link>
+    <link>https://luan.ninja/tags/</link>
     <description>Recent content in Tags on Snizi Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://www.luan.ninja/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://luan.ninja/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

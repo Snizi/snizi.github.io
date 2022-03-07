@@ -5,12 +5,12 @@
     
     
     
-    <link>https://www.luan.ninja/categories/</link>
+    <link>https://luan.ninja/categories/</link>
     <description>Recent content in Categories on Snizi Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://www.luan.ninja/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://luan.ninja/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

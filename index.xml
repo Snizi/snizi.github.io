@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Snizi Blog</title>
+        <title>Snizi</title>
         <link>https://luan.ninja/</link>
-        <description>Recent content on Snizi Blog</description>
+        <description>Recent content on Snizi</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Mon, 07 Mar 2022 23:33:29 -0300</lastBuildDate><atom:link href="https://luan.ninja/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Open redirect leads to account takeover</title>
-        <link>https://luan.ninja/posts/openredirectato/</link>
-        <pubDate>Mon, 07 Mar 2022 23:33:29 -0300</pubDate>
-        
-        <guid>https://luan.ninja/posts/openredirectato/</guid>
-        <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;2+3&amp;#34;&lt;/span&gt;)
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-        </item>
-        
+        <language>en-us</language><atom:link href="https://luan.ninja/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
